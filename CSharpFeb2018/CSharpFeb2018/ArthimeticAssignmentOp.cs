@@ -30,7 +30,6 @@ namespace CSharpFeb2018
 
             Console.WriteLine("after assign:" + first);  // 40
 
-
             Console.Read();
         }
     }
