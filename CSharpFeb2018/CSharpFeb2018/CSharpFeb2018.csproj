@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpFeb2018.UnaryDecrementOp</StartupObject>
+    <StartupObject>CSharpFeb2018.Student</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,10 @@
   <ItemGroup>
     <Compile Include="ArthimeticAssignmentOp.cs" />
     <Compile Include="ArthimeticOp.cs" />
+    <Compile Include="ClassAndObject.cs" />
+    <Compile Include="DecisionIFExample.cs" />
+    <Compile Include="DecisionNestedIfExample.cs" />
+    <Compile Include="DecisionSwithExample.cs" />
     <Compile Include="FirstProg.cs" />
     <Compile Include="LogicalOp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
