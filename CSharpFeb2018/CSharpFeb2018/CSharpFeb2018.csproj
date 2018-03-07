@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>CSharpFeb2018.Student</StartupObject>
+    <StartupObject>CSharpFeb2018.ClassMethod</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="ArthimeticAssignmentOp.cs" />
     <Compile Include="ArthimeticOp.cs" />
     <Compile Include="ClassAndObject.cs" />
+    <Compile Include="ClassMethod.cs" />
     <Compile Include="DecisionIFExample.cs" />
     <Compile Include="DecisionNestedIfExample.cs" />
     <Compile Include="DecisionSwithExample.cs" />
