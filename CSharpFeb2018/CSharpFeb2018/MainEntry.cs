@@ -20,8 +20,19 @@ namespace CSharpFeb2018
             //ConstructorEx obj = new ConstructorEx();
             //obj.PublicMethod();
 
-            ConstructorEx obj = new ConstructorEx();
-            ConstructorEx obj1 = new ConstructorEx();
+            //ConstructorEx obj = new ConstructorEx();
+            //ConstructorEx obj1 = new ConstructorEx();
+
+            //MethodOverload Obj = new MethodOverload();
+            //Obj.TestMethod();
+            //Obj.TestMethod(first);
+
+            //StudentTest Obj = new StudentTest();
+            //Obj.Marks = 80;
+            //Console.WriteLine(Obj.GetStudentMarks());
+
+            SingleInheritanceChild Obj = new SingleInheritanceChild();
+            Obj.ChildMethod();
 
 
             Console.Read();
