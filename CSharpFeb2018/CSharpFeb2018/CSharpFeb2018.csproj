@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractClassExample.cs" />
     <Compile Include="AccessSpecifier.cs" />
     <Compile Include="ArthimeticAssignmentOp.cs" />
     <Compile Include="ArthimeticOp.cs" />
@@ -57,6 +58,7 @@
     <Compile Include="DecisionSwithExample.cs" />
     <Compile Include="FirstProg.cs" />
     <Compile Include="HierarchicalInheritance.cs" />
+    <Compile Include="InterfaceExample.cs" />
     <Compile Include="LogicalOp.cs" />
     <Compile Include="MainEntry.cs" />
     <Compile Include="MethodOverload.cs" />

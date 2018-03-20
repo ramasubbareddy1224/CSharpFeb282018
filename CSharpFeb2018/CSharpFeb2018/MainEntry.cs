@@ -27,12 +27,20 @@ namespace CSharpFeb2018
             //Obj.TestMethod();
             //Obj.TestMethod(first);
 
-            //StudentTest Obj = new StudentTest();
+            //StudentTest  = new StudentTest();
             //Obj.Marks = 80;
             //Console.WriteLine(Obj.GetStudentMarks());
 
-            SingleInheritanceChild Obj = new SingleInheritanceChild();
-            Obj.ChildMethod();
+            //SingleInheritanceChild Obj = new SingleInheritanceChild();
+            //Obj.ChildMethod();
+
+            // AbstractClassExample obj = new AbstractClassExample();
+
+            //AbstractDerivedClass Obj = new AbstractDerivedClass();
+            //Obj.AbstractMethod();
+
+            InterfaceDeriveClass Obj = new InterfaceDeriveClass();
+            Obj.Method1();
 
 
             Console.Read();
