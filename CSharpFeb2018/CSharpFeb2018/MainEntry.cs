@@ -39,8 +39,23 @@ namespace CSharpFeb2018
             //AbstractDerivedClass Obj = new AbstractDerivedClass();
             //Obj.AbstractMethod();
 
-            InterfaceDeriveClass Obj = new InterfaceDeriveClass();
-            Obj.Method1();
+            //InterfaceDeriveClass Obj = new InterfaceDeriveClass();
+            //Obj.Method1();
+
+            //StringBuilderExample Obj = new StringBuilderExample();
+            //Obj.Display();
+
+            //ArrayExample Obj = new ArrayExample();
+            //Obj.Display();
+
+            //ExceptionHandlingExample Obj = new ExceptionHandlingExample();
+            //Obj.Display();
+
+            //ArrayListExample Obj = new ArrayListExample();
+            //Obj.Display();
+
+            GenericList Obj = new GenericList();
+            Obj.Display();
 
 
             Console.Read();
